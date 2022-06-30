@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{Interior Consultant Landing Page}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{interior-consultant-master247.netlify.app/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{github.com/siafromspace/interior-consultant-master.git}">
       Solution
     </a>
     <span> | </span>
@@ -33,8 +33,10 @@
 <!-- OVERVIEW -->
 
 ## Overview
+![interior1](https://user-images.githubusercontent.com/101575004/176565500-0dc32fba-187f-459e-9a25-65999a530417.png)
+![interior2](https://user-images.githubusercontent.com/101575004/176565515-d992bb6b-2bde-4942-9d7b-282e42b6c2ed.png)
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+
 
 ### Built With
 
