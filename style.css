@@ -87,6 +87,7 @@ header ul li a:hover {
 }
 header .fa-bars {
     display: none;
+    align-self: center;
 }
 main {
     display: flex;
